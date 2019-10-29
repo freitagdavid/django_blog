@@ -1,0 +1,7 @@
+django_project/db.sqlite3
+django_project/.mypy_cache
+django_project/.vscode
+django_project/blog/__pycache__
+django_project/media
+django_project/users/__pycache__
+django_project/django_project/__pycache__
