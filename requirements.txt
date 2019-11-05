@@ -58,3 +58,4 @@ whitenoise==4.1.4
 win-inet-pton==1.1.0
 wincertstore==0.2
 wrapt==1.10.11
+cloudinary==1.18.2
