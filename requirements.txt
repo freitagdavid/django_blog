@@ -44,7 +44,6 @@ pyOpenSSL==19.0.0
 PySocks==1.7.1
 python-dotenv==0.10.3
 pytz==2019.3
-pywin32==223
 PyYAML==5.1.1
 requests==2.22.0
 requirements-detector==0.6
